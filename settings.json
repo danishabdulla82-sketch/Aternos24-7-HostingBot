@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MAINLIFESTEAL.aternos.me:35756",
+    "ip": "MAINLIFESTEAL.aternos.me",
     "port": 35756,
     "version": "",
     "try-creative": false
